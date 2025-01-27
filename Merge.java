@@ -1,6 +1,5 @@
 import java.io.*;
 import java.io.FileNotFoundException;
-import java.util.*;
 import java.awt.*;
 import javax.swing.*;
 public class Merge {
